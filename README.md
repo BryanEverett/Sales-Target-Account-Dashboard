@@ -27,5 +27,5 @@ With this explanation, this dashboard has three main goals:
   
 #Solution
 1.) Created three charts to track daily, and weekly activity on target accounts. The daily activity chart was created in the form of a number overlay chart, the weekly activity was created in the form of a horizontal bar chart to compare activity per week, and a third chart shows the daily activity by account for the day.
-2.) Created a chart that shows 
-3.)
+2.) Created a table chart that shows weekly, monthly, and quarterly per account, along with an account quality score. This is used to track activity across accounts over the given time period to determine when an account has been worked adequately, and to continually evaluate the quality of accounts being worked. This is the core tool for determining when to rotate out accounts.
+3.) Created a table chart that shows key firmographic information about various accounts available in the system to be added to the target account list. I used several factors to give each account a score based on the number of those factors they possessed. Those factors were: Number of previous opportunities on the account, recency of funding, firm size, existence of employees who were previous users of Periscope, and company industry. 
