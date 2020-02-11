@@ -26,6 +26,6 @@ With this explanation, this dashboard has three main goals:
   3.) In this same workspace, create an optimal way of identifying which accounts that are available to work are best to focus on now
   
 #Solution
-1.)
-2.)
+1.) Created three charts to track daily, and weekly activity on target accounts. The daily activity chart was created in the form of a number overlay chart, the weekly activity was created in the form of a horizontal bar chart to compare activity per week, and a third chart shows the daily activity by account for the day.
+2.) Created a chart that shows 
 3.)
